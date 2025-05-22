@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer (MERN) working on real-world business apps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?tgs-saruk=tgs-saruk&label=Profile%20views&color=0e75b6&style=flat" alt="tgs-saruk" />
+  <img src="https://user-images.githubusercontent.com/tgs-saruk/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="tgs-saruk" />
 </p>
 
 ---
