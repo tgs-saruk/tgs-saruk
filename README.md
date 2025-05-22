@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm SK SARUK</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN) working on real-world business apps</h3>
 
 <p align="center">
