@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SK Saruk</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN) working on real-world business apps</h3>
 
-[<p align="center">
-  <img src="https://raw.githubusercontent.com/tgs-saruk/your-repo/main/banner.png" alt="SK Saruk banner" width="400"/>
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif alt="SK Saruk banner" width="400"/>
 </p>
-](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
 ---
 
 - 🛠️ I’m currently working on a **multi-tenant HRMS application** like Zoho People  
