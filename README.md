@@ -27,7 +27,7 @@
   `Generative AI`, `UI/UX`, `Scalable Web Apps`
 
 ---
-### 💼 Projects I’ve Worked On
+### 💼 🚀 Recent Projects
 
 - **📰 BEST NEWS EVER (Bible App)**  
   Contributed to a feature-rich Bible app that delivers daily scripture, audio narration, and bookmarking. Focused on optimizing the API structure and improving the user experience on both Android and iOS.
